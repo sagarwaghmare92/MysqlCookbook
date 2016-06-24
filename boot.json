@@ -1,0 +1,1 @@
+{"mysql": {"database":"test","db_username":"test","db_password": "Pa55w0rd"},"run_list": ["recipe[mysql::server]","recipe[database::mysql]"]}
